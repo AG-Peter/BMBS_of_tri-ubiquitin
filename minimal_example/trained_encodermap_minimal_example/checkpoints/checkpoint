@@ -1,0 +1,3 @@
+model_checkpoint_path: "/home/simonh/phd/BMBS_encodermap/upload_to_github/run0/checkpoints/step10000.ckpt"
+all_model_checkpoint_paths: "/home/simonh/phd/BMBS_encodermap/upload_to_github/run0/checkpoints/step5000.ckpt"
+all_model_checkpoint_paths: "/home/simonh/phd/BMBS_encodermap/upload_to_github/run0/checkpoints/step10000.ckpt"

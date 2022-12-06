@@ -1,0 +1,38 @@
+{
+    "activation_functions": [
+        "",
+        "tanh",
+        "tanh",
+        "tanh",
+        ""
+    ],
+    "analysis_path": "",
+    "auto_cost_scale": 1,
+    "auto_cost_variant": "mean_abs",
+    "batch_size": 256,
+    "center_cost_scale": 0.0001,
+    "checkpoint_step": 5000,
+    "dist_sig_parameters": [
+        20,
+        12,
+        10,
+        1,
+        2,
+        10
+    ],
+    "distance_cost_scale": 500,
+    "gpu_memory_fraction": 0,
+    "id": "",
+    "l2_reg_constant": 0.001,
+    "learning_rate": 0.001,
+    "main_path": "/home/simonh/phd/BMBS_encodermap/upload_to_github/run0",
+    "n_neurons": [
+        300,
+        300,
+        300,
+        2
+    ],
+    "n_steps": 10000,
+    "periodicity": Infinity,
+    "summary_step": 100
+}
