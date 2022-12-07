@@ -28,5 +28,7 @@ For the full data set please visit the [data repository](https://doi.org/10.4860
 ![plot](tri-Ub_BMBS_workflow.png)
 
 This workflow visualizes the general data pipeline of the BMBS algorithm.
+
 The blue arrows indicate the workflow, whereas the orange dotted arrows point to the notebooks that can be used in the specific parts of the workflow.
+
 Boxes with dotted borders and without orange arrows connecting them, indicate that we refer to external software that can be used in this part of the workflow.
