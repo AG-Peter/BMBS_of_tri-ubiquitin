@@ -12,7 +12,7 @@ Journal: Frontiers in Chemistry - Theoretical and Computational Chemistry
 
 Research Topic: Recent Advances in Computational Modelling of Biomolecular Complexes
 
-DOI: 10.48606/40
+DOI: 
 
 ## Data Information:
 
@@ -21,7 +21,7 @@ In \notebooks we provide jupyter notebooks containing the code we used to analys
 In \minimal_example we provide a randomly generated subset (28,000 structures) of the original CG data, 
 as well as the results of applying the notebooks to this test data.
 
-For the full data set please visit (insert URL/DOI).
+For the full data set please visit the [data repository](https://doi.org/10.48606/40).
 
 ## General BMBS Workflow
 
