@@ -2,6 +2,8 @@
 
 This repository provides the python notebooks we used to analyse K48-linked tri-ubiquitin data.
 
+Furthermore we provide a small data subset which can be used to test the notebooks with. 
+
 ## Publication Information:
 
 Titel: "Generating a conformational landscape of ubiquitin chains at atomistic resolution by back-mapping based sampling"
