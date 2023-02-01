@@ -14,7 +14,7 @@ Journal: Frontiers in Chemistry - Theoretical and Computational Chemistry
 
 Research Topic: Recent Advances in Computational Modelling of Biomolecular Complexes
 
-DOI: 
+DOI: [https://doi.org/10.3389/fchem.2022.1087963](https://doi.org/10.3389/fchem.2022.1087963)
 
 ## Data Information:
 
